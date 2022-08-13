@@ -6,3 +6,4 @@
 ##Destaques
 
 - Usando o modelo de projeto MVC
+- Uso do banco de dados MySql
